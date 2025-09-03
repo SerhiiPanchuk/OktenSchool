@@ -5,3 +5,6 @@
              font-variation-settings:
                      "wdth" 100;
          }
+span {
+    background-color: darkgray;
+}
