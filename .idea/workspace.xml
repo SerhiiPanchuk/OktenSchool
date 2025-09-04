@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="кінець" />
+    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Створена директорія HW1-5 з файлами html &amp; css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW1-5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW1-5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW1-5/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW1-5/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,24 +23,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SerhiiPanchuk"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SerhiiPanchuk&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SerhiiPanchuk/OktenSchool.git",
-    "accountId": "eb4a582f-394a-40d8-8ea2-046cd001f9f6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SerhiiPanchuk/OktenSchool.git&quot;,
+    &quot;accountId&quot;: &quot;eb4a582f-394a-40d8-8ea2-046cd001f9f6&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="32CT5xpu0ovcLaqJsmZlduSpPsX" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,6 +53,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
@@ -60,6 +65,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Homework" />
+      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\HW-1-4" />
+      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\.idea" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756923377707</updated>
       <workItem from="1756923378724" duration="4841000" />
+      <workItem from="1757012612180" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -188,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756927850860</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Overwrite gitignore">
+      <option name="closed" value="true" />
+      <created>1757012698427</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757012698427</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Створена директорія HW1-5 з файлами html &amp; css">
+      <option name="closed" value="true" />
+      <created>1757013005971</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757013005971</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +246,8 @@
     <MESSAGE value="Намагався зробити правильний рзмір карт" />
     <MESSAGE value="змінив h1 на p та змінив клас" />
     <MESSAGE value="кінець" />
-    <option name="LAST_COMMIT_MESSAGE" value="кінець" />
+    <MESSAGE value="Overwrite gitignore" />
+    <MESSAGE value="Створена директорія HW1-5 з файлами html &amp; css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Створена директорія HW1-5 з файлами html &amp; css" />
   </component>
 </project>
