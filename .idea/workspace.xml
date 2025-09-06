@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Додав картинки з текстом та стилізував їх">
+    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Додав картинки">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/HW1-5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW1-5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <updated>1756923377707</updated>
       <workItem from="1756923378724" duration="4841000" />
       <workItem from="1757012612180" duration="4096000" />
-      <workItem from="1757182560325" duration="373000" />
+      <workItem from="1757182560325" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -225,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757016605887</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Додав картинки">
+      <option name="closed" value="true" />
+      <created>1757183084443</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757183084443</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +265,7 @@
     <MESSAGE value="Overwrite gitignore" />
     <MESSAGE value="Створена директорія HW1-5 з файлами html &amp; css" />
     <MESSAGE value="Додав картинки з текстом та стилізував їх" />
-    <option name="LAST_COMMIT_MESSAGE" value="Додав картинки з текстом та стилізував їх" />
+    <MESSAGE value="Додав картинки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Додав картинки" />
   </component>
 </project>
