@@ -1,0 +1,181 @@
+Index: .idea/OktenSchool.iml
+===================================================================
+diff --git a/.idea/OktenSchool.iml b/.idea/OktenSchool.iml
+deleted file mode 100644
+--- a/.idea/OktenSchool.iml	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
++++ /dev/null	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="WEB_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+-      <excludeFolder url="file://$MODULE_DIR$/temp" />
+-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
++++ /dev/null	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/OktenSchool.iml" filepath="$PROJECT_DIR$/.idea/OktenSchool.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
++++ /dev/null	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f872d083-dc9a-4616-85a2-f09898abd523\" name=\"Changes\" comment=\"init\">\r\n      <change afterPath=\"$PROJECT_DIR$/Homework/HW2-3/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Homework/HW2-3/main.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;SerhiiPanchuk&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/SerhiiPanchuk/OktenSchool.git&quot;,\r\n    &quot;accountId&quot;: &quot;eb4a582f-394a-40d8-8ea2-046cd001f9f6&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"32CT5xpu0ovcLaqJsmZlduSpPsX\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.editor\",\r\n    \"to.speed.mode.migration.done\": \"true\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\fores\\WebstormProjects\\OktenSchool\\Homework\" />\r\n      <recent name=\"C:\\Users\\fores\\WebstormProjects\\OktenSchool\\HW-1-4\" />\r\n      <recent name=\"C:\\Users\\fores\\WebstormProjects\\OktenSchool\\.idea\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f872d083-dc9a-4616-85a2-f09898abd523\" name=\"Changes\" comment=\"\" />\r\n      <created>1756923377707</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1756923377707</updated>\r\n      <workItem from=\"1756923378724\" duration=\"4841000\" />\r\n      <workItem from=\"1757012612180\" duration=\"4096000\" />\r\n      <workItem from=\"1757182560325\" duration=\"6191000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"init\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756923585090</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756923585090</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Html макет було створено\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756923714053</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756923714053</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"main.css було створено\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756924324819</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756924324819</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"main.css було створено\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756924348699</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756924348699</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Доданий стиль шрифта Робото\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756925513290</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756925513290</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Доданий стиль шрифта Робото\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756925584485</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756925584485</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Вніс зміни\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756926110896</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756926110896</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Додав колір фону\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756926260067</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756926260067</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Додав спецсимволи\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756926516809</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756926516809</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Додав class red\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756926662506</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756926662506</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Намагався зробити правильний рзмір карт\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756927164798</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756927164798</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"змінив h1 на p та змінив клас\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756927369245</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756927369245</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"кінець\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756927745778</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756927745778</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"кінець\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756927850860</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756927850860</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Overwrite gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757012698427</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757012698427</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Створена директорія HW1-5 з файлами html &amp; css\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757013005971</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757013005971</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Додав картинки з текстом та стилізував їх\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757016605887</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757016605887</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Додав картинки\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757183084443</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757183084443</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"init\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757184964577</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757184964577</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"20\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Html макет було створено\" />\r\n    <MESSAGE value=\"main.css було створено\" />\r\n    <MESSAGE value=\"Доданий стиль шрифта Робото\" />\r\n    <MESSAGE value=\"Вніс зміни\" />\r\n    <MESSAGE value=\"Додав колір фону\" />\r\n    <MESSAGE value=\"Додав спецсимволи\" />\r\n    <MESSAGE value=\"Додав class red\" />\r\n    <MESSAGE value=\"Намагався зробити правильний рзмір карт\" />\r\n    <MESSAGE value=\"змінив h1 на p та змінив клас\" />\r\n    <MESSAGE value=\"кінець\" />\r\n    <MESSAGE value=\"Overwrite gitignore\" />\r\n    <MESSAGE value=\"Створена директорія HW1-5 з файлами html &amp; css\" />\r\n    <MESSAGE value=\"Додав картинки з текстом та стилізував їх\" />\r\n    <MESSAGE value=\"Додав картинки\" />\r\n    <MESSAGE value=\"init\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"init\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
++++ b/.idea/workspace.xml	(date 1757189325709)
+@@ -4,10 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="init">
+-      <change afterPath="$PROJECT_DIR$/Homework/HW2-3/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Homework/HW2-3/main.css" afterDir="false" />
++    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Додав картинки з текстом та стилізував їх">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Homework/HW1-5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW1-5/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -49,23 +48,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master",
+-    "junie.onboarding.icon.badge.shown": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.editor",
+-    "to.speed.mode.migration.done": "true",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Homework" />
+@@ -89,7 +87,7 @@
+       <updated>1756923377707</updated>
+       <workItem from="1756923378724" duration="4841000" />
+       <workItem from="1757012612180" duration="4096000" />
+-      <workItem from="1757182560325" duration="6191000" />
++      <workItem from="1757182560325" duration="373000" />
+     </task>
+     <task id="LOCAL-00001" summary="init">
+       <option name="closed" value="true" />
+@@ -227,23 +225,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1757016605887</updated>
+     </task>
+-    <task id="LOCAL-00018" summary="Додав картинки">
+-      <option name="closed" value="true" />
+-      <created>1757183084443</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1757183084443</updated>
+-    </task>
+-    <task id="LOCAL-00019" summary="init">
+-      <option name="closed" value="true" />
+-      <created>1757184964577</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1757184964577</updated>
+-    </task>
+-    <option name="localTasksCounter" value="20" />
++    <option name="localTasksCounter" value="18" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -261,6 +243,7 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <MESSAGE value="init" />
+     <MESSAGE value="Html макет було створено" />
+     <MESSAGE value="main.css було створено" />
+     <MESSAGE value="Доданий стиль шрифта Робото" />
+@@ -274,8 +257,6 @@
+     <MESSAGE value="Overwrite gitignore" />
+     <MESSAGE value="Створена директорія HW1-5 з файлами html &amp; css" />
+     <MESSAGE value="Додав картинки з текстом та стилізував їх" />
+-    <MESSAGE value="Додав картинки" />
+-    <MESSAGE value="init" />
+-    <option name="LAST_COMMIT_MESSAGE" value="init" />
++    <option name="LAST_COMMIT_MESSAGE" value="Додав картинки з текстом та стилізував їх" />
+   </component>
+-</project>
+\ No newline at end of file
++</project>
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>workspace.xml\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	(revision bb2c9669317a8477aea59897587de5a2bb0b7c26)
++++ b/.idea/.gitignore	(date 1757189158899)
+@@ -1,1 +1,0 @@
+-workspace.xml
