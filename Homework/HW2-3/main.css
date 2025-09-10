@@ -17,6 +17,7 @@ body{
     border-radius: 10px;
     padding-left: 10px;
     padding-bottom: 20px;
+    transition: transform 1s;
 }
 .sidebar:hover {
     transform: scale(1.1);

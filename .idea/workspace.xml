@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="add h1">
-      <change afterPath="$PROJECT_DIR$/Lessons/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/main.css" afterDir="false" />
+    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="add transform and transition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW2-3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW2-3/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <workItem from="1757421517033" duration="67000" />
       <workItem from="1757428352927" duration="176000" />
       <workItem from="1757428577017" duration="111000" />
-      <workItem from="1757511495041" duration="5960000" />
+      <workItem from="1757511495041" duration="6648000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -282,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757428493485</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add transform and transition">
+      <option name="closed" value="true" />
+      <created>1757522182695</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757522182695</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +324,7 @@
     <MESSAGE value="Зробив HW2-3" />
     <MESSAGE value="Зробив HW2-4" />
     <MESSAGE value="add h1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add h1" />
+    <MESSAGE value="add transform and transition" />
+    <option name="LAST_COMMIT_MESSAGE" value="add transform and transition" />
   </component>
 </project>
