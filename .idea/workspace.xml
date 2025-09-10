@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="add transform and transition">
+      <change afterPath="$PROJECT_DIR$/Homework/HW3-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW3-3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson3-6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson3-6/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/HW2-3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW2-3/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson3-4/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson3-4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson3-4/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +75,8 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Homework" />
+      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Lessons\Lesson3-4" />
+      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Lessons" />
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\HW-1-4" />
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\.idea" />
     </key>
@@ -94,7 +102,7 @@
       <workItem from="1757421517033" duration="67000" />
       <workItem from="1757428352927" duration="176000" />
       <workItem from="1757428577017" duration="111000" />
-      <workItem from="1757511495041" duration="6648000" />
+      <workItem from="1757511495041" duration="12291000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -288,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757522182695</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add transform and transition">
+      <option name="closed" value="true" />
+      <created>1757522637446</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1757522637446</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
