@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Orbitron:wght@400..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+header{
+    background: #8D8484;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+
+footer{
+    background: #BDBDBD;
+    height: 20vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+
+main {
+    display: flex;
+    height: 60vh;
+}
+
+div{
+    color: #fff;
+}
+.s1{
+    background: #776969;
+    height: 20vh;
+    width: 74vw;
+}
+.s2{
+    background: #643030;
+    height: 20vh;
+    width: 74vw;
+}
+.s3{
+    background: #441818;
+    height: 20vh;
+    width: 74vw;
+}
+.s4{
+    background: #937575;
+    height: 50%;
+    width: 26vw;
+}
+.s5{
+    background: #644C4C;
+    height: 50%;
+    width: 26vw;
+}
+section{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+div1{
+    height: 20vh;
+}
