@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Виконав домашнє завдання">
-      <change afterPath="$PROJECT_DIR$/Homework/HW4-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW4-1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW5/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson4/main.css" afterDir="false" />
+    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Доробив макет сайту з бургером">
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/Burgers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/l5-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/l5-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/l5-4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-4/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-4/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-6/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +120,9 @@
       <workItem from="1757837885981" duration="5605000" />
       <workItem from="1757934807060" duration="4578000" />
       <workItem from="1758045308036" duration="5202000" />
-      <workItem from="1758181784999" duration="5170000" />
+      <workItem from="1758181784999" duration="7759000" />
+      <workItem from="1758192656898" duration="506000" />
+      <workItem from="1758194389470" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -316,7 +332,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757530497342</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Доробив макет сайту з бургером">
+      <option name="closed" value="true" />
+      <created>1758187289791</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1758187289791</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Доробив макет сайту з бургером">
+      <option name="closed" value="true" />
+      <created>1758188234283</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1758188234283</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,6 +386,7 @@
     <MESSAGE value="add h1" />
     <MESSAGE value="add transform and transition" />
     <MESSAGE value="Виконав домашнє завдання" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав домашнє завдання" />
+    <MESSAGE value="Доробив макет сайту з бургером" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доробив макет сайту з бургером" />
   </component>
 </project>
