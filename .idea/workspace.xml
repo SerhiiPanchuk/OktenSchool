@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="Доробив макет сайту з бургером">
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/Favicon/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/Burgers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/l5-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/l5-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_Burger/img/l5-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson4/Animation1/main1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson4/Animation2/main2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-4/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-4/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson3-6/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/gvu+aV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson4/Animation1/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson4/Animation2/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/pngtree-8bit-pixel-ninja-character-simple-png-png-image_6977676.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/pngtree-red-ninja-character-8bit-pixel-png-png-image_6977675.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +75,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Lessons\Lesson4" />
+      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Lessons\Lesson4\Animation1" />
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Homework" />
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Lessons\Lesson3-4" />
       <recent name="C:\Users\fores\WebstormProjects\OktenSchool\Lessons" />
-      <recent name="C:\Users\fores\WebstormProjects\OktenSchool\HW-1-4" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -122,7 +109,8 @@
       <workItem from="1758045308036" duration="5202000" />
       <workItem from="1758181784999" duration="7759000" />
       <workItem from="1758192656898" duration="506000" />
-      <workItem from="1758194389470" duration="442000" />
+      <workItem from="1758194389470" duration="973000" />
+      <workItem from="1758200901414" duration="11208000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -348,7 +336,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758188234283</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Доробив макет сайту з бургером">
+      <option name="closed" value="true" />
+      <created>1758194853047</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1758194853047</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Доробив макет сайту з бургером">
+      <option name="closed" value="true" />
+      <created>1758195078161</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1758195078161</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
