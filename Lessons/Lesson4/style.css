@@ -1,0 +1,14 @@
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+div input {
+    width: 500px;
+    height: auto;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
