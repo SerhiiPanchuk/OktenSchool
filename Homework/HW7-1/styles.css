@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 132px;
+    box-sizing: border-box;
 }
 
 .card {
