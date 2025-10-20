@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    display: grid;
+    height: 100vh;
+    background: gray;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 50px;
+}
+.item {
+    background-color: lightpink;
+    border: 1px solid;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper div:nth-child(5) {
+    background-color: black;
+}

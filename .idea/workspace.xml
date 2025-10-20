@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="HW7_2 done">
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-1/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-1/styleMobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-1/styleTablet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-2/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-2/style-tablet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW8-2/styleMobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson4/rest.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson4/style-0-480.css" afterDir="false" />
+    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="HW8_1 done">
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson9/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW8-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW8-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW8-2/style-tablet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW8-2/style-tablet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW8-2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW8-2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/HW8-2/styleMobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW8-2/styleMobile.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +66,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/fores/WebstormProjects/OktenSchool/Lessons/Lesson4/Animation2&quot;,
@@ -152,7 +145,11 @@
       <workItem from="1760299983280" duration="1203000" />
       <workItem from="1760352234174" duration="1090000" />
       <workItem from="1760366375534" duration="2090000" />
-      <workItem from="1760434836330" duration="11933000" />
+      <workItem from="1760434836330" duration="14859000" />
+      <workItem from="1760521535807" duration="2875000" />
+      <workItem from="1760810493751" duration="2049000" />
+      <workItem from="1760893339080" duration="1356000" />
+      <workItem from="1760955271712" duration="3446000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -498,7 +495,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760010327029</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="HW8_1 done">
+      <option name="closed" value="true" />
+      <created>1760452017323</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1760452017323</updated>
+    </task>
+    <task id="LOCAL-00045" summary="HW8_1 done">
+      <option name="closed" value="true" />
+      <created>1760452030206</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1760452030206</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Додав спецсимволи" />
     <MESSAGE value="Додав class red" />
     <MESSAGE value="Намагався зробити правильний рзмір карт" />
     <MESSAGE value="змінив h1 на p та змінив клас" />
@@ -541,6 +553,7 @@
     <MESSAGE value="Start" />
     <MESSAGE value="HW7_1 done" />
     <MESSAGE value="HW7_2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW7_2 done" />
+    <MESSAGE value="HW8_1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW8_1 done" />
   </component>
 </project>
