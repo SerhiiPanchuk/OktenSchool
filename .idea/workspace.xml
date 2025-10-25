@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="HW8_2 done">
-      <change afterPath="$PROJECT_DIR$/Homework/HW_9/9_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_9/9_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_9/9_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_9/9_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_9/9_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW_9/9_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Bootstrap/index.html" afterDir="false" />
+    <list default="true" id="f872d083-dc9a-4616-85a2-f09898abd523" name="Changes" comment="HW9 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson9/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson9/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +60,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
@@ -99,7 +91,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
       </set>
     </attachedChunks>
   </component>
@@ -154,7 +146,10 @@
       <workItem from="1760893339080" duration="1356000" />
       <workItem from="1760955271712" duration="6113000" />
       <workItem from="1761068266296" duration="1980000" />
-      <workItem from="1761375405152" duration="11042000" />
+      <workItem from="1761375405152" duration="11130000" />
+      <workItem from="1761407525409" duration="207000" />
+      <workItem from="1761407969116" duration="12000" />
+      <workItem from="1761408001007" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -524,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760960388755</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="HW9 done">
+      <option name="closed" value="true" />
+      <created>1761389426481</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1761389426481</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Намагався зробити правильний рзмір карт" />
     <MESSAGE value="змінив h1 на p та змінив клас" />
     <MESSAGE value="кінець" />
     <MESSAGE value="Overwrite gitignore" />
@@ -567,6 +569,7 @@
     <MESSAGE value="HW7_2 done" />
     <MESSAGE value="HW8_1 done" />
     <MESSAGE value="HW8_2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW8_2 done" />
+    <MESSAGE value="HW9 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW9 done" />
   </component>
 </project>
