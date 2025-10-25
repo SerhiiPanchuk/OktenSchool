@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+        }
+
+        .grid {
+            height: 100vh;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1.5fr;
+            grid-template-rows: 0.2fr 2fr 2fr 0.4fr;
+            grid-template-areas:
+            "nav nav nav"
+            "ver ver2 top"
+            "ver ver2 bottom"
+            "footer footer footer";
+        }
+
+        nav {
+            grid-area: nav;
+            background: #D9D9D9;
+        }
+
+        .vertical {
+            grid-area: ver;
+            background: #A4A4A4;
+        }
+
+        .vertical2 {
+            grid-area: ver2;
+            background: #C1C1C1;
+        }
+
+
+        .top {
+            grid-area: top;
+            background: #7F7A7A;
+        }
+
+        .bottom {
+            grid-area: bottom;
+            background: #6B6161;
+        }
+
+        footer {
+            grid-area: footer;
+            background: #D9D9D9;
+        }
+    </style>
+</head>
+<body>
+<div class="grid">
+    <nav></nav>
+    <div class="vertical"></div>
+    <div class="vertical2"></div>
+    <aside class="top"></aside>
+    <aside class="bottom"></aside>
+    <footer></footer>
+</div>
+</body>
+</html>

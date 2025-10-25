@@ -1,23 +1,36 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.wrapper {
-    display: grid;
+
+.grid {
     height: 100vh;
-    background: gray;
-    grid-template-rows: repeat(3, 1fr);
-    grid-template-columns: 1fr 2fr 1fr;
-    gap: 50px;
-}
-.item {
-    background-color: lightpink;
-    border: 1px solid;
     display: grid;
-    justify-content: center;
-    align-items: center;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr 2fr 1fr;
+    grid-template-areas:
+            "header header header"
+            "left main right"
+            "footer footer footer";
 }
-.wrapper div:nth-child(5) {
-    background-color: black;
+header {
+    grid-area: header;
+    background: gray;
+}
+.left {
+    grid-area: left;
+    background: darkgoldenrod;
+}
+.right {
+    grid-area: right;
+    background: darkcyan;
+}
+main {
+    grid-area: main;
+    background: darkolivegreen;
+}
+footer {
+    grid-area: footer;
+    background: darkmagenta;
 }

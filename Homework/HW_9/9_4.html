@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+        *{
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+        }
+        .grid {
+            display: grid;
+            height: 100vh;
+            grid-template-columns: 1.5fr 0.5fr;
+            grid-template-rows: 1fr 1fr 0.5fr 0.5fr 1fr 1fr;
+            grid-template-areas:
+            "header header"
+            "a top"
+            "b top"
+            "b bottom"
+            "c bottom"
+            "footer footer";
+        }
+        header {
+            grid-area: header;
+            background: #8D8484;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+        p {
+            font-size: 45px;
+            font-weight: 400;
+            line-height: 62px;
+        }
+        .white {
+            color: white;
+        }
+        .top {
+            grid-area: top;
+            background: #937575;
+        }
+        .bottom {
+            grid-area: bottom;
+            background: #644C4C;
+        }
+        .A {
+            grid-area: a;
+            background: #776969;
+        }
+        .B {
+            grid-area: b;
+            background: #643030;
+        }
+        .C {
+            grid-area: c;
+            background: #441818;
+        }
+        footer {
+            grid-area: footer;
+            background: #BDBDBD;
+        }
+        header, section, aside, footer {
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+<div class="grid">
+    <header><p>Header</p></header>
+    <section class="A"><p class="white">Content - 1</p></section>
+    <section class="B"><p class="white">Content - 2</p></section>
+    <section class="C"><p class="white">Content - 3</p></section>
+    <aside class="top"><p class="white">spam -1</p></aside>
+    <aside class="bottom"><p class="white">spam -2</p></aside>
+    <footer><p>footer</p></footer>
+</div>
+</body>
+</html>
