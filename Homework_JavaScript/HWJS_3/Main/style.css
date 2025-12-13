@@ -1,0 +1,9 @@
+.wrap {
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 20px;
+}
+
+.user-block {
+    padding: 20px;
+}
